@@ -7,6 +7,8 @@ public static void main(String[] args) {
 	System.out.println("Hello updated from gig");
 	
 	System.out.println("from eclipse");
+	System.out.println("its sunday");
+	
 	
 }
 }
