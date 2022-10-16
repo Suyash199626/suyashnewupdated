@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author suyas
- *
- */
-module ggg {
-}
