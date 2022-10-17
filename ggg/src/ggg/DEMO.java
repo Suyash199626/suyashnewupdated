@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	System.out.println("from eclipse");
 	System.out.println("its sunday");
 	System.out.println("tommorrow is monday");
-	
+	System.out.println("Hii Suyash Rushikesh Here");
 	
 }
 }
