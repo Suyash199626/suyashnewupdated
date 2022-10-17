@@ -12,7 +12,5 @@ public static void main(String[] args) {
 	System.out.println("Hii Suyash Rushikesh Here");
 	
 }
-	public void m1(){
-		System.out.println("Hello Suyash");
 }
 }
